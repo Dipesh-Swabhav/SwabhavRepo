@@ -16,7 +16,9 @@ namespace RectangleApp
             Rectangle.width = 90;
 
             Console.WriteLine(Rectangle.Calculate_Area(Rectangle.width, Rectangle.length).ToString());
+            Console.WriteLine("thanks for Pushing");
             Console.ReadKey();
+            
         }
     }
 }
